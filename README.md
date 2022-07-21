@@ -1,7 +1,7 @@
 # SENTIMENTAL ANALYSIS ON MAJOR ANTI-HYPERTENNSIVE DRUGS
 
 ### 1.1 Objective
-The objective of this project is to carry out sentimental analysis on commonly prescribed anti-hypernsive drugs in the united state. Build a webapp that either reassure user of these drugs based on review sentiment. Anti hypertensive drugs used are
+The objective of this project is to carry out sentimental analysis on commonly prescribed anti-hypertensive drugs in the united state. Build a web-app that reassure user of these drugs based on review sentiment. Anti hypertensive drugs used are:
 - Amlodipine ```Brand names: Norvasc, Katerzia, Norliqva```
 - Metoprolol ```Brand names: Metoprolol Succinate ER, Metoprolol Tartrate, Lopressor, Toprol-XL```
 - Lisinopril ```Brand names: Zestril, Prinivil, Qbrelis``` 
