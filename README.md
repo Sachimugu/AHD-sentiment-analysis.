@@ -13,7 +13,7 @@ The objective of this project is to carry out sentimental analysis on commonly p
 - The data set used in notebook was scraped from 
     - https://www.drugs.com/
     - https://www.askapatient.com/
-- Scraping script can be found here
+- Scraping script can be found <a  href='https://github.com/Sachimugu/Drug-sentiment-analysis./tree/master/Data%20collection'>Here</a>
 
 ### 1.3 Result Peak
 ![word cloud](assets/wc.png)
